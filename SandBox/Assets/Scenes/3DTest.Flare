@@ -1,0 +1,50 @@
+Editor-Camera-Zoom: 0
+Editor-Camera-Position: [-3.42033887, 3.06331611, -5.39500427]
+Editor-Camera-Rotation: [-389.251953, -27.2832031, 0]
+Scene: Name
+Entities:
+  - Entity: 1176749060793919700
+    Component-Tag:
+      Tag: back
+    Component-Transform:
+      Translate: [0, 0, -1]
+      Rotate: [0, 180, 0]
+      Scale: [1, 1, 1]
+    Component-SpriteRenderer:
+      Color: [0.0295209475, 0.289494932, 0.67940855, 1]
+  - Entity: 1412338568793556833
+    Component-Tag:
+      Tag: Front
+    Component-Transform:
+      Translate: [-0.5, 0, -0.5]
+      Rotate: [0, -90, 0]
+      Scale: [1, 1, 1]
+    Component-SpriteRenderer:
+      Color: [0, 0.166191116, 0.49978888, 1]
+  - Entity: 16095234295153940206
+    Component-Tag:
+      Tag: left
+    Component-Transform:
+      Translate: [0.5, 0, -0.5]
+      Rotate: [0, 90, 0]
+      Scale: [1, 1, 1]
+    Component-SpriteRenderer:
+      Color: [0, 0.669597685, 0.836598992, 1]
+  - Entity: 18265851482903213836
+    Component-Tag:
+      Tag: Right
+    Component-Transform:
+      Translate: [0, 0, 0]
+      Rotate: [0, 0, 0]
+      Scale: [1, 1, 1]
+    Component-SpriteRenderer:
+      Color: [0, 0.290196091, 0.678431392, 1]
+  - Entity: 9742468798483798059
+    Component-Tag:
+      Tag: Top
+    Component-Transform:
+      Translate: [0, 0.5, -0.5]
+      Rotate: [-90, 0, 0]
+      Scale: [1, 1, 1]
+    Component-SpriteRenderer:
+      Color: [0.173922956, 0.485191584, 0.888325751, 1]

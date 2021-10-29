@@ -1,0 +1,89 @@
+Editor-Camera-Zoom: -3670
+Editor-Camera-Position: [3.25830412, 5.66685247, 16.9391651]
+Editor-Camera-Rotation: [179.517578, -12.546875, 0]
+Scene: Name
+Entities:
+  - Entity: 4904671432205719049
+    Component-Tag:
+      Tag: Ground
+    Component-Transform:
+      Translate: [5.20242548, 3.30154896, 0]
+      Rotate: [0, -0, 27.1507359]
+      Scale: [9.89366817, 0.99999994, 1]
+    Component-SpriteRenderer:
+      Color: [1, 0.561051607, 0.561051607, 1]
+    Component-RigidBody2D:
+      PositionFixedX: false
+      PositionFixedY: false
+      RotationFixed: false
+      BodyType: 0
+      Density: 1
+      Friction: 0.5
+      Restitution: 0
+      RestitutionThreshhold: 0.100000001
+    Component-BoxCollider2D:
+      Offset: [0, 0]
+      Size: [0.5, 0.5]
+  - Entity: 6954612897535680687
+    Component-Tag:
+      Tag: TestBox2
+    Component-Transform:
+      Translate: [-4.16854572, 4.24225378, 0]
+      Rotate: [0, -0, -29.2185497]
+      Scale: [0.999992073, 0.999989986, 0.999944091]
+    Component-SpriteRenderer:
+      Color: [1, 1, 1, 1]
+    Component-RigidBody2D:
+      PositionFixedX: false
+      PositionFixedY: false
+      RotationFixed: false
+      BodyType: 1
+      Density: 1
+      Friction: 0.5
+      Restitution: 0
+      RestitutionThreshhold: 0.100000001
+    Component-BoxCollider2D:
+      Offset: [0, 0]
+      Size: [0.5, 0.5]
+  - Entity: 16780376107423903505
+    Component-Tag:
+      Tag: Ground
+    Component-Transform:
+      Translate: [-4.49529696, 3.26204491, 0]
+      Rotate: [0, -0, -29.2185726]
+      Scale: [8.92903519, 0.999999642, 1]
+    Component-SpriteRenderer:
+      Color: [1, 0.459594369, 0.530362248, 1]
+    Component-RigidBody2D:
+      PositionFixedX: false
+      PositionFixedY: false
+      RotationFixed: false
+      BodyType: 0
+      Density: 3.75
+      Friction: 0.100000001
+      Restitution: 0
+      RestitutionThreshhold: 0.100000001
+    Component-BoxCollider2D:
+      Offset: [0, 0]
+      Size: [0.5, 0.5]
+  - Entity: 3263041498540493713
+    Component-Tag:
+      Tag: TestBox
+    Component-Transform:
+      Translate: [4.40361643, 5.21109629, 0]
+      Rotate: [0, -0, 29.5672398]
+      Scale: [1, 1, 0.999831319]
+    Component-SpriteRenderer:
+      Color: [1, 1, 1, 1]
+    Component-RigidBody2D:
+      PositionFixedX: false
+      PositionFixedY: false
+      RotationFixed: false
+      BodyType: 1
+      Density: 1
+      Friction: 0.100000001
+      Restitution: 0.200000003
+      RestitutionThreshhold: 0.100000001
+    Component-BoxCollider2D:
+      Offset: [0, 0]
+      Size: [0.5, 0.5]

@@ -1,0 +1,71 @@
+Editor-Camera-Zoom: -3670
+Editor-Camera-Position: [2.76234031, 5.66685247, 16.0281677]
+Editor-Camera-Rotation: [179.517578, -12.546875, 0]
+Scene: Name
+Entities:
+  - Entity: 4904671432205719049
+    Component-Tag:
+      Tag: Entity
+  - Entity: 6954612897535680687
+    Component-Tag:
+      Tag: TestBox2
+    Component-Transform:
+      Translate: [-0.679008722, 2.4432025, 9.71585337e-07]
+      Rotate: [0, -0, -28.8084946]
+      Scale: [0.999992073, 0.999989986, 0.999944091]
+    Component-SpriteRenderer:
+      Color: [1, 1, 1, 1]
+    Component-RigidBody2D:
+      PositionFixedX: false
+      PositionFixedY: false
+      RotationFixed: false
+      BodyType: 1
+      Density: 1
+      Friction: 0.5
+      Restitution: 0
+      RestitutionThreshhold: 0.100000001
+    Component-BoxCollider2D:
+      Offset: [0, 0]
+      Size: [0.5, 0.5]
+  - Entity: 16780376107423903505
+    Component-Tag:
+      Tag: Ground
+    Component-Transform:
+      Translate: [0, -3.78095961, 0]
+      Rotate: [0, -0, 0]
+      Scale: [29.8791542, 0.999999881, 1]
+    Component-SpriteRenderer:
+      Color: [1, 0.459594369, 0.530362248, 1]
+    Component-RigidBody2D:
+      PositionFixedX: false
+      PositionFixedY: false
+      RotationFixed: false
+      BodyType: 0
+      Density: 3.75
+      Friction: 0.100000001
+      Restitution: 0
+      RestitutionThreshhold: 0.100000001
+    Component-BoxCollider2D:
+      Offset: [0, 0]
+      Size: [0.5, 0.5]
+  - Entity: 3263041498540493713
+    Component-Tag:
+      Tag: TestBox
+    Component-Transform:
+      Translate: [-0.152689815, 0.94091177, 0]
+      Rotate: [0, -0, 29.5672398]
+      Scale: [1, 1, 0.999831319]
+    Component-SpriteRenderer:
+      Color: [1, 1, 1, 1]
+    Component-RigidBody2D:
+      PositionFixedX: false
+      PositionFixedY: false
+      RotationFixed: false
+      BodyType: 1
+      Density: 1
+      Friction: 0.100000001
+      Restitution: 0.200000003
+      RestitutionThreshhold: 0.100000001
+    Component-BoxCollider2D:
+      Offset: [0, 0]
+      Size: [0.5, 0.5]
