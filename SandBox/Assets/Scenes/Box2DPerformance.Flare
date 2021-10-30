@@ -12,6 +12,7 @@ Entities:
       Scale: [9.89366817, 0.99999994, 1]
     Component-SpriteRenderer:
       Color: [1, 0.561051607, 0.561051607, 1]
+      Shape: 0
     Component-RigidBody2D:
       PositionFixedX: false
       PositionFixedY: false
@@ -33,6 +34,7 @@ Entities:
       Scale: [0.999992073, 0.999989986, 0.999944091]
     Component-SpriteRenderer:
       Color: [1, 1, 1, 1]
+      Shape: 0
     Component-RigidBody2D:
       PositionFixedX: false
       PositionFixedY: false
@@ -54,6 +56,7 @@ Entities:
       Scale: [8.92903519, 0.999999642, 1]
     Component-SpriteRenderer:
       Color: [1, 0.459594369, 0.530362248, 1]
+      Shape: 0
     Component-RigidBody2D:
       PositionFixedX: false
       PositionFixedY: false
@@ -75,6 +78,7 @@ Entities:
       Scale: [1, 1, 0.999831319]
     Component-SpriteRenderer:
       Color: [1, 1, 1, 1]
+      Shape: 0
     Component-RigidBody2D:
       PositionFixedX: false
       PositionFixedY: false

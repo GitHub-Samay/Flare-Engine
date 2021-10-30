@@ -12,6 +12,7 @@ Entities:
       Scale: [1, 1, 1]
     Component-SpriteRenderer:
       Color: [0.0295209475, 0.289494932, 0.67940855, 1]
+      Shape: 0
   - Entity: 1412338568793556833
     Component-Tag:
       Tag: Front
@@ -21,6 +22,7 @@ Entities:
       Scale: [1, 1, 1]
     Component-SpriteRenderer:
       Color: [0, 0.166191116, 0.49978888, 1]
+      Shape: 0
   - Entity: 16095234295153940206
     Component-Tag:
       Tag: left
@@ -30,6 +32,7 @@ Entities:
       Scale: [1, 1, 1]
     Component-SpriteRenderer:
       Color: [0, 0.669597685, 0.836598992, 1]
+      Shape: 0
   - Entity: 18265851482903213836
     Component-Tag:
       Tag: Right
@@ -39,6 +42,7 @@ Entities:
       Scale: [1, 1, 1]
     Component-SpriteRenderer:
       Color: [0, 0.290196091, 0.678431392, 1]
+      Shape: 0
   - Entity: 9742468798483798059
     Component-Tag:
       Tag: Top
@@ -48,3 +52,4 @@ Entities:
       Scale: [1, 1, 1]
     Component-SpriteRenderer:
       Color: [0.173922956, 0.485191584, 0.888325751, 1]
+      Shape: 0
