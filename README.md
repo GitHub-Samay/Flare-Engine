@@ -19,4 +19,4 @@ OpenGL
 
 
 
-I'm only 13, so please dont judge too hard.
+I'm only 13 so it's not good.
