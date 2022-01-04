@@ -19,4 +19,9 @@ OpenGL
 
 
 
-I'm only 13 so it's not good.
+I was inspired by The Cherno's Hazel Dev and Hazel2D For this project.
+
+Link to The Cherno's -
+
+    YouTube: https://www.youtube.com/user/TheChernoProject
+    Git-Hub: https://github.com/TheCherno/Hazel
