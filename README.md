@@ -17,7 +17,8 @@ SpdLog
 The Renderer Supports:
 OpenGL
 
-[------------------------------------------------------------------------------------------------------------]
+
+
 
 I was inspired by The Cherno's Hazel Dev and Hazel2D For this project.
 
