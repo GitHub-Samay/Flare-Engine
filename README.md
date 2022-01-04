@@ -4,15 +4,15 @@ This is written in vc++.
 
 I Have Used The Following Libraries - 
 
-        GLFW,
-        Glad,
-        Glm,
-        stb_image,
-        ImGui,
-        ImGuizmo,
-        Entt,
-        Yaml-Cpp,
-        Box2D,
+        GLFW
+        Glad
+        Glm
+        stb_image
+        ImGui
+        ImGuizmo
+        Entt
+        Yaml-Cpp
+        Box2D
         SpdLog
 
 The Renderer Supports - 
